@@ -1,4 +1,4 @@
-# Spatial Epi Lab Handbook
+## Spatial Epi Lab Handbook
 
 Welcome to the **Spatial Epi Lab GitHub organization**.
 
