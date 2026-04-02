@@ -32,7 +32,7 @@ Examples of content that belong in this GitHub organization include:
 
 ## What should NOT go here
 
-The following should generally **not** be stored in GitHub:
+The following should generally **NOT** be stored in GitHub:
 
 - raw data
 - large datasets
