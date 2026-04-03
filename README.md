@@ -28,7 +28,7 @@ Examples of content that belong in this GitHub organization include:
 - project README files
 - code used to generate manuscript figures and tables
 - small example datasets that are open and non-sensitive
-- package/environment files such as `requirements.txt`, `environment.yml`, or `renv.lock`
+- package/environment files such as `requirements.txt`, `environment.yml etc. 
 
 ## What should NOT go here
 
