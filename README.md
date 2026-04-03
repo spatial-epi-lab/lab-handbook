@@ -59,7 +59,7 @@ It is **not** intended to create extra process or overhead. Instead, it should h
 
 ## Recommended repository structure
 
-Most project repositories should follow a simple structure such as:
+Most project repositories should follow a simple structure something like:
 
 ```text
 project-name/
