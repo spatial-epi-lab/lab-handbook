@@ -2,7 +2,7 @@
 
 Welcome to the **Spatial Epi Lab GitHub organization**.
 
-This GitHub space is a shared home for lab code, lightweight project documentation, and reproducible research workflows. The goal is to make scripts, methods, and project structure easier to find, understand, and reuse across the lab.
+This GitHub space is a shared home for lab code, project documentation, and reproducible research workflows. The goal is to make scripts, methods, and project structure easier to find, understand, and reuse.
 
 ## What this GitHub organization is for
 
