@@ -44,7 +44,7 @@ The following should generally **NOT** be stored in GitHub:
 - local machine-specific outputs
 - unpublished materials that are not ready to be shared within the lab, let's aim to be cautious first with sharing 
 
-When in doubt, GitHub should hold the **code and documentation needed to understand or reproduce the work**, while data should live in the appropriate approved storage location.
+When in doubt, GitHub should hold the **code and documentation needed to understand or reproduce the work**, while data should live in the appropriate approved storage location (typically for us this will by at Columbia but follow IRB protocols for study specifics).
 
 ## Organization philosophy
 
